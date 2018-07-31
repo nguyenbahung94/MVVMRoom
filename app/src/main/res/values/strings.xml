@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoMVVM</string>
+    <string name="message_loading">Loading....</string>
+    <string name="message_success">Login Success</string>
+    <string name="error_email_and_password_cant_be_empty">email and password can not be empty</string>
+    <string name="error_email_invalid">email invalid</string>
+    <string name="text_login">LOGIN</string>
+    <string name="text_notifications">NOTIFICATIONS</string>
+    <string name="text_hint_email">email</string>
+    <string name="text_hint_password">password</string>
+</resources>
